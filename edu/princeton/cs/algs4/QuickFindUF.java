@@ -11,17 +11,15 @@ public class QuickFindUF {
     }
 
     public int find(int p) {
-        if (p == id[p]) {
-            return p;
-        }
-        return find(id[p]);
+        return id[p];
     }
-
     public void union(int p, int q) {
-        int a = find(p);;
-        int b = find(q);
-        if (a != b) {
-            id[a] = b;
+        int pid = find(p);
+        int qid = find(q);
+        for (int i = 0; i<id.length; i++) {
+            if (id[i] == pid){
+                id[i] = qid;
+            }
         }
     }
 }
