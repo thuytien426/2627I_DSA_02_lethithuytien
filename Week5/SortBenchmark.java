@@ -3,7 +3,7 @@ import java.util.Random;
 
 public class SortBenchmark {
 
-    // --- 1. INSERTION SORT ---
+    //1. INSERTION SORT
     public static void insertionSort(int[] arr) {
         int n = arr.length;
         for (int i = 1; i < n; ++i) {
@@ -17,7 +17,7 @@ public class SortBenchmark {
         }
     }
 
-    // --- 2. STANDARD MERGESORT ---
+    //2. STANDARD MERGESORT
     private static void merge(int[] arr, int l, int m, int r) {
         int n1 = m - l + 1;
         int n2 = r - m;
@@ -49,7 +49,7 @@ public class SortBenchmark {
         }
     }
 
-    // --- 3. NATURAL MERGESORT (TỰ NHIÊN) ---
+    //3. NATURAL MERGESORT
     public static void naturalMergeSort(int[] arr) {
         int n = arr.length;
         if (n <= 1) return;
@@ -87,7 +87,7 @@ public class SortBenchmark {
         }
     }
 
-    // --- HÀM TẠO DỮ LIỆU MẪU ---
+    //HÀM TẠO DỮ LIỆU MẪU
     public static int[] generateRandomData(int size) {
         Random rand = new Random();
         int[] arr = new int[size];
@@ -107,7 +107,7 @@ public class SortBenchmark {
         return arr;
     }
 
-    // --- HÀM ĐO THỜI GIAN CHẠY (Millisecond) ---
+    // HÀM ĐO THỜI GIAN CHẠY (Millisecond)
     @FunctionalInterface
     interface SortAlgorithm {
         void sort(int[] arr);
