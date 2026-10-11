@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5f239fb3-215f-4832-982c-575dd0ee332e" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../.idea/2627I_DSA_02_lethithuytien.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Algorithms/Algorithms.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BalancedBrackets.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week3.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Algorithms.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week1/1.1.md" beforeDir="false" afterPath="$PROJECT_DIR$/../Week1/1.1.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week1/1.2.md" beforeDir="false" afterPath="$PROJECT_DIR$/../Week1/1.2.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week1/1.3.md" beforeDir="false" afterPath="$PROJECT_DIR$/../Week1/1.3.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week1/1.4.md" beforeDir="false" afterPath="$PROJECT_DIR$/../Week1/1.4.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week1/1.5.md" beforeDir="false" afterPath="$PROJECT_DIR$/../Week1/1.5.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week2/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week2/out/production/Week2/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week2/out/production/Week2/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week2/out/production/Week2/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week2/out/production/Week2/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week2/out/production/Week2/FourSum$FourSum.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week2/out/production/Week2/FourSum.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week2/out/production/Week2/Week2.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Week3.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/w3_tailop_25020362.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../edu/princeton/cs/algs4/QuickFindUF.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="EmbeddingIndexingInfo">
+    <option name="cachedIndexableFilesCount" value="1" />
+    <option name="fileBasedEmbeddingIndicesEnabled" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="McpProjectServerCommands">
+    <commands />
+    <urls />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "customColor": "",
+  "associatedIndex": 6
+}]]></component>
+  <component name="ProjectId" id="3JwGD1tfduw6S8yvE8yO0rE04mt" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.BalancedBrackets.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.MCP Project settings loaded": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm"
+  }
+}]]></component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5f239fb3-215f-4832-982c-575dd0ee332e" name="Changes" comment="" />
+      <created>1790564594777</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1790564594777</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
